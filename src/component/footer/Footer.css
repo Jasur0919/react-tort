@@ -57,3 +57,18 @@ input {
     align-items: center;
     gap: 20px;
 }
+
+
+.footer_bot {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.footer_bot p {
+    font-size: 14px;
+    color: white;
+    font-weight: 300px;
+
+}

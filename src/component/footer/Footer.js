@@ -36,6 +36,10 @@ const Footer = () => {
                 </div>
 
             </div>
+
+            <div className="footer_bot">
+                <p>© 1993–2021 Интернет-магазин «LOGO» — truck</p>
+            </div>
         </div>
     </footer>
   )
