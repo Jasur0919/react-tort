@@ -4,6 +4,10 @@ import Logo from '../../assent/images/LOGO.svg'
 import Ins from '../../assent/images/footer-instagram.svg'
 import Face from '../../assent/images/footer-facebook.svg'
 
+const Bot = [
+    
+]
+
 const Footer = () => {
   return (
     <footer>

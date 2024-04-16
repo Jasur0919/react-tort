@@ -13,9 +13,9 @@
     padding: 0 20px;
 }
 
-a{
+/* a{
     cursor: pointer;
-}
+} */
 
 .header_box {
     display: flex;
@@ -44,6 +44,7 @@ ul {
 
 .headerItem {
     list-style: none;
+    cursor: pointer;
 }
 
 .headerItem:hover {
